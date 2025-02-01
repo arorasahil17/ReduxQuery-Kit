@@ -1,13 +1,14 @@
 {
-  "name": "reduxquery",
-  "private": true,
+  "name": "redux-query-kit",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepublish": "node ./index.js"
     
   },
   "bin": {
