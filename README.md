@@ -4,7 +4,7 @@ A modern React starter template built with TypeScript, Vite, TanStack React Quer
 
 ## Features
 
-- **React 18** with **TypeScript** for type safety
+- **React** with **TypeScript** for type safety
 - **Vite** as the build tool for fast development and optimized production builds
 - **TanStack React Query** for efficient data fetching, caching, and synchronization
 - **Redux Toolkit** for state management and easy store configuration
