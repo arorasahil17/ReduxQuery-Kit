@@ -21,7 +21,7 @@ You can easily install and set up the template using `npx`.
 ### 1. Run the following command
 
 ```bash
-npx create-my-react-template my-template
+npx redux-query-kit my-template
 ```
 
 ### 2. Install dependencies
