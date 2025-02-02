@@ -12,7 +12,7 @@
     
   },
   "bin": {
-    "redux-query-kit": "index.js"
+    "redux-query-kit": "index.cjs"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
