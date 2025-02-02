@@ -8,7 +8,7 @@ console.log(`Creating project: ${projectName}`);
 execSync(
   `git clone https://github.com/arorasahil17/ReduxQuery-Kit.git ${projectName}`
 );
-execSync(`cd ${projectName} && rm -rf .git && npm install`, {
+execSync(`cd ${projectName} && npm install`, {
   stdio: "inherit",
 });
 console.log("Installing dependencies...");
